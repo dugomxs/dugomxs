@@ -1,7 +1,7 @@
 ## Opa, eu me chamo Eduardo Ribeiro, e estou aprendendo a ser um Dev
 <div align="center">
   <a href="https://github.com/dugomxs">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=dugomxs&show_icons=true&theme=merkok&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=dugomxs&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dugomxs&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
