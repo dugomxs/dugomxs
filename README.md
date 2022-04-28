@@ -1,4 +1,20 @@
-## Opa, eu me chamo Eduardo Ribeiro, e estou aprendendo a ser um Dev
+<h1 align="left">
+    Olá
+    <img
+      src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
+      width="30px"
+    />, me chamo Eduardo!
+  </h1>
+  
+  <p>
+    - 🎓  Estudante do ensino médio
+    
+    - 👨‍💻  Aprendendo a codar em **JavaScript**
+  
+  </p>
+
+  ## ⚙️ &nbsp;GitHub Analytics
+<br>
 <div align="center">
   <a href="https://github.com/dugomxs">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=dugomxs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -16,5 +32,3 @@
   <a href="https://instagram.com/dugomxs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:eg55618@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-ribeiro-70a2431b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
