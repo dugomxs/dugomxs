@@ -6,13 +6,11 @@
     />, me chamo Eduardo!
   </h1>
   
-  <p>
     - 🎓  Estudante do ensino médio
     
     - 👨‍💻  Aprendendo a codar em **JavaScript**
-  
-  </p>
-
+    
+ 
   ## ⚙️ &nbsp;GitHub Analytics
 <br>
 <div align="center">
