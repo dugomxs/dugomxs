@@ -8,7 +8,7 @@
   
     - 🎓  Estudante do ensino médio
     
-    - 👨‍💻  Aprendendo a codar em **JavaScript**
+    - 👨‍💻  Aprendendo a codar em <b>JavaScript</b>
     
  
   ## ⚙️ &nbsp;GitHub Analytics
