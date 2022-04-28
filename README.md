@@ -1,17 +1,10 @@
-<h1 align="left">
-    Olá
-    <img
-      src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
-      width="30px"
-    />, me chamo Eduardo!
-  </h1>
-  
-    - 🎓  Estudante do ensino médio
+<h1 align="left"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>, me chamo Eduardo!</h1>
+
+- 🎓  Estudante do ensino médio
     
-    - 👨‍💻  Aprendendo a codar em <b>JavaScript</b>
-    
- 
-  ## ⚙️ &nbsp;GitHub Analytics
+- 👨‍💻  Aprendendo a codar em **JavaScript**
+
+## ⚙️ &nbsp;GitHub Analytics
 <br>
 <div align="center">
   <a href="https://github.com/dugomxs">
