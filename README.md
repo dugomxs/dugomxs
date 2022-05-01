@@ -4,6 +4,8 @@
     
 - 👨‍💻  Aprendendo a codar em **JavaScript**
 
+</br>
+
   ## ⚙️ &nbsp;GitHub Analytics
 <br>
 <div align="center">
