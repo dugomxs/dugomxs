@@ -2,7 +2,7 @@
 
 - 🎓  Estudante do ensino médio
     
-- 👨‍💻  Aprendendo a codar em **JavaScript**
+- 👨‍💻  Aprendendo a codar em **HTML, CSS e JavaScript**
 
 <br>
 
