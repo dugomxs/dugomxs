@@ -1,4 +1,4 @@
-<h1 align="left"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>, me chamo Eduardo!</h1>
+<h1 align="left"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px"/>, me chamo Eduardo!</h1>
 
 - 🎓  Estudante do ensino médio
     
