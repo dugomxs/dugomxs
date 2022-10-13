@@ -1,6 +1,6 @@
 <h1 align="left"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"/>, me chamo Eduardo!</h1>
 
-- 🎓  Estudando **HTML, CSS, Bulma e JavaScript**
+- 🎓  Estudando **PHP e MySQL**
     
 - I ❤️ Program
 
